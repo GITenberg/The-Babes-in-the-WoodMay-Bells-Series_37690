@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37690#The-Babes-in-the-WoodMay-Bells-Series
 gutenberg_issued: '2011-10-10'
 gutenberg_type: Text
 identifiers:
